@@ -12,6 +12,9 @@ With this app, you can:
 
 ---
 
+## Architecture
+<img src="img/im.png">
+
 ## 📂 Folder Structure
 
 ```
