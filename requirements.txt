@@ -1,0 +1,10 @@
+streamlit
+# flask
+langchain 
+langchain-community 
+pinecone
+transformers 
+pandas
+beautifulsoup4
+langchain_experimental
+lida
