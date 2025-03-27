@@ -42,7 +42,7 @@ Stock Intelligence RAG App
 ## 🔧 Setup Instructions
 ## First, Go to Pinecone
 Create an index, then push scraping data into this using Pine_process.py
-<img src="img/vectordb">
+<img src="img/vectordb.png">
 ### 1️⃣ **Clone the Repository**
 ```bash
 git clone https://github.com/yourusername/stock-intelligence-rag.git
