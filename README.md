@@ -38,7 +38,9 @@ Stock Intelligence RAG App
 
 ---
 ## Sample 
-<img src="img/l4.png">
+<img src="img/l1.png">
+<img src="img/l2.png">
+<img src="img/l3.png">
 ## 🔧 Setup Instructions
 ## First, Go to Pinecone
 Create an index, then push scraping data into this using Pine_process.py
